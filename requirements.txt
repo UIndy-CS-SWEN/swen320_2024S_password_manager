@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Flask>=2.2.5
 Jinja2==3.0.1
 MarkupSafe==2.1.5
@@ -12,3 +13,11 @@ Flask-Login
 Flask_wtf
 python-dotenv
 email_validator
+=======
+Click==8.1.3
+Flask==2.2.2
+Jinja2==3.1.2
+Mako==1.2.2
+MarkupSafe==2.1.1
+Werkzeug==2.2.2
+>>>>>>> flask_ex1/main
